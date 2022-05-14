@@ -1,3 +1,4 @@
+<!-- This message confirms that I wrote the text below; you can check the verified commit link below for confirmation. Cheers! -->
 # About this organization
 
 Hi there! You probably stumbled across this organization while reviewing one of my pull requests, or while viewing my profile. This organization serves as a holding place for my forks of repos in order to contribute to them. That's all!
